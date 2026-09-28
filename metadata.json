@@ -1,0 +1,6 @@
+{
+  "name": "آیداد v2 - پلتفرم هوشمند امنیت و خدمات فریلنسری حقوقی",
+  "description": "پلتفرم جامع امنیت بانوان با هوش مصنوعی و بستر فریلنسری وکلا و مشاوران حقوقی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
